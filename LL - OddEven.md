@@ -1,4 +1,4 @@
----java
+```java
 class node{
     int val;
     node next;
@@ -42,5 +42,5 @@ public class _01cool {
 
 }
 
----
+```
 
